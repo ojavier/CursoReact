@@ -1,47 +1,29 @@
 ---
+id: intro
+title: Introducción
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introducción a React
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Bienvenido al curso de **Introducción a React**.
 
-## Getting Started
+En este curso aprenderás los conceptos fundamentales de React, una de las bibliotecas de JavaScript más utilizadas para construir interfaces modernas de usuario.
 
-Get started by **creating a new site**.
+## ¿Qué veremos?
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+1. **¿Qué es React?**  
+   Exploraremos qué es React y cuando implementarlo.
 
-### What you'll need
+2. **Instalación y configuración**  
+   Aprenderás a instalar y configurar un entorno básico con React usando herramientas modernas como **Vite**.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+3. **Laboratorio práctico**  
+   Implementarás un componente básico de React para poner en práctica lo aprendido.
 
-## Generate a new site
+## Requisitos
 
-Generate a new Docusaurus site using the **classic template**.
+- Conocimientos básicos de **HTML, CSS y JavaScript**.
+- Tener instalado **Node.js (versión 18 o superior)**.
+- Un editor de código como [Visual Studio Code](https://code.visualstudio.com/).
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
