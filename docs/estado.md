@@ -23,7 +23,7 @@ function Boton() {
 }
 ```
 
-- onClick = {"manejarClick"} → cuando el usuario haga clic, ejecuta la función manejarClick.
+- ```onClick = {manejarClick}``` → cuando el usuario haga clic, ejecuta la función manejarClick.
 
 - React nombra los eventos con camelCase → onClick, onChange, onSubmit.
 

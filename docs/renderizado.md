@@ -60,7 +60,7 @@ function ListaDeNombres() {
 
 - Por cada nombre, crea un < li >.
 
-- key =  "{ "index" }" es importante para que React sepa cuál elemento es cuál (ayuda a que la página se actualice eficientemente).
+- ```key =  { "index" }``` es importante para que React sepa cuál elemento es cuál (ayuda a que la página se actualice eficientemente).
 
 Esto mostraría en pantalla:
 
