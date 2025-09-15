@@ -87,7 +87,7 @@ function ListaDeTareas({ tareas }) {
           ))}
         </ul>
       ) : (
-        <p>No hay tareas pendientes 🎉</p>
+        <p>No hay tareas pendientes </p>
       )}
     </div>
   );
